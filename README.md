@@ -3,9 +3,9 @@
   <h3 style="margin: 0px; padding: 0px"> A student at <a href="https://en.kntu.ac.ir/"> K. N. Toosi University of Technology </a>
 </div>
 
-- 🔭 I’m currently working on **Distributed Learning Algorithms**
-- 🌱 I’m currently learning **Reinforcement Learning and Parallel Computing**
-- 💬 Ask me about **ML Algorithms, Deep Learning and Parallel Computing**
+- 🔭 I’m currently working on **Lock Benchmaking and Optimization**
+- 🌱 I’m currently learning **Parallel (Multicore) Programming**
+- 💬 Ask me about **ML Algorithms, Deep Learning and Parallel Computing, Multicore-programming, lock-free data structures**
 - 📫 How to reach me: **shafiee.mohamin@gmail.com**
 
 <!--
