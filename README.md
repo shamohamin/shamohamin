@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="padding-left: 5px; padding-right: 5px; margin: 0px"> Hi 👋, I'm Mohammadamin Shafiei</h1> 
-  <h3 style="margin: 0px; padding: 0px"> A graduate student at <a href="https://en.kntu.ac.ir/"> University of Waterloo </a>
+  <h3 style="margin: 0px; padding: 0px"> A graduate student at <a href="https://uwaterloo.ca/"> University of Waterloo </a>
 </div>
 
 - 🔭 I’m currently working on **Lock Benchmaking and Optimization**
